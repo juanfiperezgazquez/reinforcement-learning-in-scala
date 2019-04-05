@@ -1,2 +1,5 @@
 pacman-training/
 /.idea/
+/project/target/
+/project/project/
+/target/
